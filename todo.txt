@@ -1,0 +1,7 @@
+1. Pong using PyGame
+2. LeetCode Solve
+3. Learn DS/DL
+4. Practice English
+5. Thesis Work
+6. Try Steamlit
+7. Study
